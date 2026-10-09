@@ -4,7 +4,7 @@
 
 ### Hi, I'm Madhubhashana 👋
 
-I build across **web, data, and everyday problems** — from soil dashboards<br/>and customer analytics to shared expenses and learning platforms.
+I build across **web, data, and everyday problems** — from soil dashboards<br/>and customer analytics to shared expenses, learning platforms, and browser games.
 
 [![Projects](https://img.shields.io/badge/PROJECTS-5EEAD4?style=for-the-badge&logo=github&logoColor=0B1426)](#projects)
 [![Stack](https://img.shields.io/badge/TECH_STACK-A5B4FC?style=for-the-badge&logo=stackblitz&logoColor=0B1426)](#stack)
@@ -45,6 +45,13 @@ I build across **web, data, and everyday problems** — from soil dashboards<br/
 <p><a href="https://github.com/madhubashana112/epapere.com"><strong>Explore the repository →</strong></a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/madhubashana112/gta6-after-the-sun"><img src="assets/gta6.svg" width="600" alt="GTA VI After the Sun — unofficial browser game" /></a>
+<p><strong>GTA VI: After the Sun</strong> — an unofficial static browser game and a new addition to my game-development experiments.</p>
+<p><a href="https://github.com/madhubashana112/gta6-after-the-sun"><strong>Explore the game repository →</strong></a></p>
+</td>
+</tr>
 </table>
 
 <a id="stack"></a>
@@ -67,7 +74,7 @@ I build across **web, data, and everyday problems** — from soil dashboards<br/
 ## The complete collection
 
 
-All 16 publicly visible repositories, including project versions, experiments, a learning fork, and this profile repository.
+All 17 publicly visible repositories, including project versions, experiments, a learning fork, and this profile repository.
 
 ### 🧠 AI & data projects
 
@@ -87,6 +94,12 @@ All 16 publicly visible repositories, including project versions, experiments, a
 | [**VisionEdge-projectv1.2**](https://github.com/madhubashana112/VisionEdge-projectv1.2) | VisionEdge v1.2 · JavaScript |
 | [**PWA_type_bodima**](https://github.com/madhubashana112/PWA_type_bodima) | Shared expenses and balance settlement for boarding houses · HTML, PWA |
 | [**epapere.com**](https://github.com/madhubashana112/epapere.com) | Science-class website for CK Sir · HTML |
+
+### 🎮 Browser games
+
+| Repository | Overview |
+| :--- | :--- |
+| [**gta6-after-the-sun**](https://github.com/madhubashana112/gta6-after-the-sun) | GTA VI: After the Sun · Unofficial static browser game · HTML |
 
 ### 📋 STT project collection
 
