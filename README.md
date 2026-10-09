@@ -1,91 +1,71 @@
+<img src="assets/banner.svg" width="100%" alt="Madhubhashana — Ideas into interfaces. Data into decisions." />
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:06b6d4&height=220&section=header&text=MADHUBHASHANA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Keep%20learning.&descAlignY=60&descSize=19" alt="Madhubhashana — Code. Create. Keep learning." />
+### Hi, I'm Madhubhashana 👋
 
-### Building ideas into useful software 👋
+I build across **web, data, and everyday problems** — from soil dashboards<br/>and customer analytics to shared expenses and learning platforms.
 
-**Web applications · AI & data · Hands-on experiments**
+[![Projects](https://img.shields.io/badge/PROJECTS-5EEAD4?style=for-the-badge&logo=github&logoColor=0B1426)](#projects)
+[![Stack](https://img.shields.io/badge/TECH_STACK-A5B4FC?style=for-the-badge&logo=stackblitz&logoColor=0B1426)](#stack)
+[![Repositories](https://img.shields.io/badge/ALL_REPOSITORIES-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhubashana112?tab=repositories)
 
-Welcome to my corner of GitHub. Explore the projects, the experiments, and the progress.
-
-[![Projects](https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](#-project-directory)
-[![VisionEdge](https://img.shields.io/badge/VisionEdge-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://github.com/madhubashana112/VisionEdge-projectv1.3)
-[![Churn System](https://img.shields.io/badge/Churn_System-0891B2?style=for-the-badge&logo=python&logoColor=white)](https://github.com/madhubashana112/churn-system-2.0)
-
-[About](#-about-me) &nbsp; / &nbsp; [Tech](#-technologies-in-my-projects) &nbsp; / &nbsp; [Highlights](#-project-highlights) &nbsp; / &nbsp; [All projects](#-project-directory)
+**Build something useful. Learn from it. Make it better.**
 
 </div>
 
 ---
 
-## ✦ About me
+<a id="projects"></a>
 
-I'm **Madhubhashana**. My repositories bring together web applications, AI experiments, and tools that turn data into useful insights. I work with **Python and JavaScript**, exploring ideas through practical projects.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🌐 Web</h3>
-<p>Interfaces and applications built with React, Vite, JavaScript, and HTML.</p>
-</td>
-<td width="33%" valign="top">
-<h3>🧠 AI & data</h3>
-<p>Churn prediction, sentiment analysis, and experiments with data-driven applications.</p>
-</td>
-<td width="33%" valign="top">
-<h3>🛠️ Practice</h3>
-<p>Learning through projects, exploring ideas, and improving one iteration at a time.</p>
-</td>
-</tr>
-</table>
-
-## ✦ Technologies in my projects
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
-## ✦ Project highlights
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🔮 VisionEdge</h3>
-<p>A React and Vite web application, with multiple versions available to explore.</p>
-<p><code>JavaScript</code> <code>React</code> <code>Vite</code></p>
-<p><a href="https://github.com/madhubashana112/VisionEdge-projectv1.3"><strong>Explore v1.3 →</strong></a> &nbsp; <a href="https://github.com/madhubashana112/VisionEdge-projectv1.2">View v1.2</a></p>
+<a href="https://github.com/madhubashana112/VisionEdge-projectv1.3"><img src="assets/visionedge.svg" width="100%" alt="VisionEdge — soil-data dashboard" /></a>
+<p>Explore soil measurements, locations, and trends through an interactive dashboard with maps and charts.</p>
+<p><a href="https://github.com/madhubashana112/VisionEdge-projectv1.3"><strong>Explore v1.3 →</strong></a> · <a href="https://github.com/madhubashana112/VisionEdge-projectv1.2">v1.2</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>📊 Churn System 2.0</h3>
-<p>Customer risk scoring and retention dashboards for SaaS, telecom, and fintech.</p>
-<p><code>Python</code> <code>FastAPI</code> <code>Analytics</code></p>
-<p><a href="https://github.com/madhubashana112/churn-system-2.0"><strong>Explore the project →</strong></a></p>
+<a href="https://github.com/madhubashana112/churn-system-2.0"><img src="assets/churn.svg" width="100%" alt="Churn System 2.0 — customer analytics" /></a>
+<p>Turn customer data into risk scores and retention dashboards for SaaS, telecom, and fintech.</p>
+<p><a href="https://github.com/madhubashana112/churn-system-2.0"><strong>Explore the repository →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🏡 බෝඩිම — Bodime</h3>
-<p>A shared-expense app for boarding houses, with Sinhala and English support, balance settlement, and offline use.</p>
-<p><code>HTML</code> <code>PWA</code> <code>Firebase</code></p>
-<p><a href="https://github.com/madhubashana112/PWA_type_bodima"><strong>Explore the project →</strong></a></p>
+<a href="https://github.com/madhubashana112/PWA_type_bodima"><img src="assets/bodime.svg" width="100%" alt="Bodime — shared-expense application" /></a>
+<p>Split boarding-house expenses, see who owes whom, and track balances. Supports Sinhala, English, and offline use.</p>
+<p><a href="https://github.com/madhubashana112/PWA_type_bodima"><strong>Explore the repository →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>🌐 epapere.com</h3>
-<p>An HTML-based web project in my collection of web development work.</p>
-<p><code>HTML</code> <code>Web</code></p>
-<p><a href="https://github.com/madhubashana112/epapere.com"><strong>Explore the project →</strong></a></p>
+<a href="https://github.com/madhubashana112/epapere.com"><img src="assets/epapere.svg" width="100%" alt="ePapere — science-class website" /></a>
+<p>A science-class website for CK Sir, bringing class information, learning resources, and enrollment guidance together.</p>
+<p><a href="https://github.com/madhubashana112/epapere.com"><strong>Explore the repository →</strong></a></p>
 </td>
 </tr>
 </table>
 
-## ✦ Project directory
+<a id="stack"></a>
+
+## My project toolkit
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,react,vite,html,fastapi,firebase,git&theme=dark&perline=8" alt="Python, JavaScript, React, Vite, HTML, FastAPI, Firebase, Git" />
+</p>
+
+| Area | Technologies used across my projects |
+| :--- | :--- |
+| Interfaces | JavaScript · React · Vite · HTML |
+| Data & APIs | Python · FastAPI · Recharts |
+| Maps & applications | Leaflet · Firebase · Progressive Web Apps |
+| Version control | Git · GitHub |
+
+<a id="directory"></a>
+
+## The complete collection
+
 
 All 16 publicly visible repositories, including project versions, experiments, a learning fork, and this profile repository.
 
@@ -103,10 +83,10 @@ All 16 publicly visible repositories, including project versions, experiments, a
 
 | Repository | Overview |
 | :--- | :--- |
-| [**VisionEdge-projectv1.3**](https://github.com/madhubashana112/VisionEdge-projectv1.3) | VisionEdge v1.3 · JavaScript, React, Vite |
+| [**VisionEdge-projectv1.3**](https://github.com/madhubashana112/VisionEdge-projectv1.3) | Soil-data dashboard with maps and charts · React, Vite |
 | [**VisionEdge-projectv1.2**](https://github.com/madhubashana112/VisionEdge-projectv1.2) | VisionEdge v1.2 · JavaScript |
 | [**PWA_type_bodima**](https://github.com/madhubashana112/PWA_type_bodima) | Shared expenses and balance settlement for boarding houses · HTML, PWA |
-| [**epapere.com**](https://github.com/madhubashana112/epapere.com) | HTML-based web project |
+| [**epapere.com**](https://github.com/madhubashana112/epapere.com) | Science-class website for CK Sir · HTML |
 
 ### 📋 STT project collection
 
@@ -125,18 +105,19 @@ All 16 publicly visible repositories, including project versions, experiments, a
 | [**Github-for-beginners**](https://github.com/madhubashana112/Github-for-beginners) | GitHub workflow practice · Forked learning repository |
 | [**madhubashana112**](https://github.com/madhubashana112/madhubashana112) | The README and configuration behind this profile |
 
-<sub>Browse each repository for its current code, documentation, and acknowledgements. Some repositories are starting points with limited public content.</sub>
+
+<sub>Some repositories are early starting points. See individual repositories for implementation details, current status, and acknowledgements.</sub>
 
 ---
 
 <div align="center">
 
-### Small experiments. Steady progress.
+### Always another idea to explore.
 
-Thanks for stopping by — explore a project and follow along as it grows.
+Thanks for visiting my build log.
 
-[![Browse repositories](https://img.shields.io/badge/Browse_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhubashana112?tab=repositories)
+[Browse the code](https://github.com/madhubashana112?tab=repositories) · [Explore my GitHub](https://github.com/madhubashana112)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:06b6d4&height=100&section=footer" alt="Blue and purple wave footer" />
+<sub>MADHUBASHANA / CODE · CREATE · KEEP LEARNING</sub>
 
 </div>
